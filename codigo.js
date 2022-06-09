@@ -1,7 +1,3 @@
-let mesada = "rojo";
-
-document.write(mesada)
-
 
 
 
